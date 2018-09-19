@@ -4,6 +4,7 @@
  *
  * @format
  * @flow
+ * hello world
  */
 
 import React, {Component} from 'react';
